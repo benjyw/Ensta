@@ -1,1 +1,4 @@
 /ensta-session.txt
+__pycache__
+*.egg-info/
+

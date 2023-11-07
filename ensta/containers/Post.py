@@ -13,6 +13,8 @@ class Post:
     taken_at: int = 0
     unique_key: str = ""
     media_type: int = 0
+    image_url: str = None,
+    video_url: str = None,
     code: str = ""
     caption_is_edited: bool = False
     original_media_has_visual_reply_media: bool = False
